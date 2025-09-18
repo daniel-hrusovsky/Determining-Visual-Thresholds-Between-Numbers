@@ -4,7 +4,7 @@
 
 A research project on how individuals perceive figures differently using linear algebra, k-randomness estimation, and survey analysis
 
-The goal of this study is to determine how individuals view two numbers, 1 and 7, when they are manipulated to look 
+The goal of this study is to determine how individuals view two numbers, 1 and 7, when they are manipulated to appear ambiguous
 
 Data comes from a Qualtrics online survey [(Preview Survey)](https://johncarroll.pdx1.qualtrics.com/jfe/preview/previewId/dd7d9313-d1bb-4944-abad-99e26c196445/SV_4VMTY3OcaneSidU?Q_CHL=preview&Q_SurveyVersionID=current)
 
