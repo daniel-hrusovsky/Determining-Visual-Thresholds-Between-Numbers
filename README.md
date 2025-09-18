@@ -15,7 +15,7 @@ Data comes from a Qualtrics online survey [(Preview Survey)](https://johncarroll
 - Analyzed results through a **threshold distribution** to determine when individuals view change
 
 ## Results
-- Received 225 results from 
+- Received 225 qualified results from the survey
 - Determined that the initial figure is frequently seen as a **1**
 - Determined that the second figure is frequently seen as a **7**
 
