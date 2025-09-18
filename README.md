@@ -6,7 +6,7 @@ A research project on how individuals perceive figures differently using linear 
 
 The goal of this study is to determine how individuals view two numbers, 1 and 7, when they are manipulated to look 
 
-Data comes from 225 survey results [Preview Survey Here](https://johncarroll.pdx1.qualtrics.com/jfe/preview/previewId/dd7d9313-d1bb-4944-abad-99e26c196445/SV_4VMTY3OcaneSidU?Q_CHL=preview&Q_SurveyVersionID=current)
+Data comes from 225 survey results [(Preview Survey Here)](https://johncarroll.pdx1.qualtrics.com/jfe/preview/previewId/dd7d9313-d1bb-4944-abad-99e26c196445/SV_4VMTY3OcaneSidU?Q_CHL=preview&Q_SurveyVersionID=current)
 
 ## Methodology
 - Built a linear scaling system to differentiate distances between figures appearing as a respective number
